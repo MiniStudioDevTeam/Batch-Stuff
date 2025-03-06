@@ -15,3 +15,5 @@ Stuff for batch
 - Github Desktop
 
 You will also need command promt for the scripts to work!
+
+Download Files:
